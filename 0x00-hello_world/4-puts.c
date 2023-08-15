@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
+ *main - main entry point
  *return: is always "0"
-*/
+ */
 int main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
