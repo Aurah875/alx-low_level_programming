@@ -16,6 +16,3 @@ int main(void)
     printf("%u\n", n);
     return (0);
 }
-julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-strspn.c -o 3-strspn
-julien@ubuntu:~/0x07$ ./3-strspn 
-5
