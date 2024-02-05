@@ -1,1 +1,3 @@
-script that runs a C file through the preprocessor and save the result into another file.
+# 0x00-hello_world
+
+This is the README file for the 0x00-hello_world folder.
